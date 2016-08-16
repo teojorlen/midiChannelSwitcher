@@ -1,0 +1,8 @@
+*.[ao]
+*~
+Release/
+.cproject
+.*.cpp
+.project
+*.d
+.settings/
